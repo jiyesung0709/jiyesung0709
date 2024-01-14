@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdaradara&show_icons=true&include_all_commits=true&theme=great-gatsby&include_orgs=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby&include_orgs=true">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaradara&layout=compact&theme=great-gatsby&orgs=jinakayoo,DS-laver">
 </p>
 
 
